@@ -1,17 +1,9 @@
 # 📝 \[3lChanguit0-editor\] – Markdown & Text Power-Editor Translator
-
-[](https://www.google.com/url?sa=E&q=https%3A%2F%2Fopensource.org%2Flicenses%2FMIT)
-
-[!\[alt text\](https://img.shields.io/badge/License-MIT-yellow.svg)](https://www.google.com/url?sa=E&q=https%3A%2F%2Fopensource.org%2Flicenses%2FMIT)
-
-  
-[
-
-!\[alt text\](https://img.shields.io/badge/version-1.0.0-blue.svg)
-
-](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2Fyourusername%2Fyourrepo)
+---
 
 **\[App Name\]** is a dual-purpose translation and editing suite designed to bridge the gap between plain text and professional Markdown. Whether you are drafting a technical manual or crafting a "beautiful" GitHub README, our special syntax tools and symbol library have you covered.\[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQGPZ8-KN61GPcMHLvlwXQMCWDe2XUoy2UyxdFB4GGmWeBl4rREYKcfQMhrhrUn2OCNrz9tFQLVygk2lLHOvzr15C80t6RI1sl6UuXO3F7WGBkpoO319Z-U520oaFEuyVwNlNOsFRDw%3D)\]
+
+---
 
 ## 🚀 Key Features
 
