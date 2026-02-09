@@ -78,7 +78,3 @@ Maintained and developed by:
 *   **[3lchanguit0](https://github.com/3lchanguit0)**
 
 ---
-
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
