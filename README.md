@@ -1,8 +1,8 @@
-### 📝 3lChanguit0-editor – Markdown & Text Power-Editor Translator
+### 📝 3lChanguit0-Editor – Markdown & Text Power-Editor Translator
 
 ---
 
-**3lChanguit0-editor** is a dual-purpose translation and editing suite designed to bridge the gap between plain text and professional Markdown. Whether you are drafting a technical manual or crafting a "beautiful" GitHub README, our special syntax tools and symbol library have you covered.
+**3lChanguit0-Editor** is a dual-purpose translation and editing suite designed to bridge the gap between plain text and professional Markdown. Whether you are drafting a technical manual or crafting a "beautiful" GitHub README, our special syntax tools and symbol library have you covered.
 
 ---
 
