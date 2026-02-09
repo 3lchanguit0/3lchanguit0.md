@@ -75,7 +75,7 @@ We are constantly improving! Future updates will include:
 ## 👾 Credits
 
 Maintained and developed by:
-*   **[3lchanguit0](https://github.com/3lchanguit0)** - Lead Developer
+*   **[3lchanguit0](https://github.com/3lchanguit0)**
 
 ---
 
