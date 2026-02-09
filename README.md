@@ -1,4 +1,4 @@
-# 📝 3lChanguit0-editor – Markdown & Text Power-Editor Translator
+📝 3lChanguit0-editor – Markdown & Text Power-Editor Translator
 
 ---
 
@@ -6,16 +6,16 @@
 
 ---
 
-## 🚀 Key Features
+**  🚀 Key Features
 
-### 🔄 Bi-Directional Translation
+🔄 Bi-Directional Translation
 
 *   **Text to Markdown:** Instantly convert unstructured plain text into valid, formatted Markdown.
     
 *   **Markdown to Text:** Strip away the syntax to get a clean, readable version of your document.
     
 
-### ✍️ Advanced Editing Suite
+** ✍️ Advanced Editing Suite
 
 *   **Live Side-by-Side Preview:** See exactly how your README will look on GitHub as you type.
     
