@@ -1,8 +1,8 @@
-# 📝 \[3lChanguit0-editor\] – Markdown & Text Power-Editor Translator
+# 📝 3lChanguit0-editor – Markdown & Text Power-Editor Translator
 
 ---
 
-**\[3lChanguit0-editor\]** is a dual-purpose translation and editing suite designed to bridge the gap between plain text and professional Markdown. Whether you are drafting a technical manual or crafting a "beautiful" GitHub README, our special syntax tools and symbol library have you covered.
+**3lChanguit0-editor** is a dual-purpose translation and editing suite designed to bridge the gap between plain text and professional Markdown. Whether you are drafting a technical manual or crafting a "beautiful" GitHub README, our special syntax tools and symbol library have you covered.
 
 ---
 
@@ -51,9 +51,9 @@ The application includes a dedicated panel for **Syntax Enhancement**. Here is 
 
 ## 🔧 Technical Details
 
-*   **Engine:** \[e.g., React / Electron / Python\]
+*   **Engine:**  e.g., React / Electron / Python
     
-*   **Parsing:** \[e.g., Remark / Markdown-it\]
+*   **Parsing:** e.g., Remark / Markdown-it
     
 *   **Translation Logic:** Custom regex-based patterns for high-fidelity text-to-MD conversion.
     
