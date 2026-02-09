@@ -1,7 +1,8 @@
 # 📝 \[3lChanguit0-editor\] – Markdown & Text Power-Editor Translator
+
 ---
 
-**\[App Name\]** is a dual-purpose translation and editing suite designed to bridge the gap between plain text and professional Markdown. Whether you are drafting a technical manual or crafting a "beautiful" GitHub README, our special syntax tools and symbol library have you covered.\[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQGPZ8-KN61GPcMHLvlwXQMCWDe2XUoy2UyxdFB4GGmWeBl4rREYKcfQMhrhrUn2OCNrz9tFQLVygk2lLHOvzr15C80t6RI1sl6UuXO3F7WGBkpoO319Z-U520oaFEuyVwNlNOsFRDw%3D)\]
+**\[3lChanguit0-editor\]** is a dual-purpose translation and editing suite designed to bridge the gap between plain text and professional Markdown. Whether you are drafting a technical manual or crafting a "beautiful" GitHub README, our special syntax tools and symbol library have you covered.
 
 ---
 
@@ -9,7 +10,7 @@
 
 ### 🔄 Bi-Directional Translation
 
-*   **Text to Markdown:** Instantly convert unstructured plain text into valid, formatted Markdown.\[[2](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQFf4rgc365Fj80tGri8RN10Crco1EeeE9DGWvSx9l8VeepcQTgMENjSnKH3nRMFDFgjexyvMZUwe2CzQl0mHrlBBRQe7LhHJdZqSLbfTM8wmhLvAL625w%3D%3D)\]
+*   **Text to Markdown:** Instantly convert unstructured plain text into valid, formatted Markdown.
     
 *   **Markdown to Text:** Strip away the syntax to get a clean, readable version of your document.
     
@@ -27,7 +28,7 @@
     
 *   **Enhanced Syntax Tools:** One-click insertion for complex elements like tables, nested lists, and task blocks.
     
-*   **Beauty Suite:** Pre-styled templates and GitHub-compatible symbols to make your documentation stand out.\[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQGPZ8-KN61GPcMHLvlwXQMCWDe2XUoy2UyxdFB4GGmWeBl4rREYKcfQMhrhrUn2OCNrz9tFQLVygk2lLHOvzr15C80t6RI1sl6UuXO3F7WGBkpoO319Z-U520oaFEuyVwNlNOsFRDw%3D)\]
+*   **Beauty Suite:** Pre-styled templates and GitHub-compatible symbols to make your documentation stand out.
 
 ### 🛠 Installation
 
@@ -46,7 +47,7 @@ The application includes a dedicated panel for **Syntax Enhancement**. Here is 
 *   **Validate:** The app automatically checks for "broken" Markdown characters and offers to fix them.
     
 
-* * *
+---
 
 ## 🔧 Technical Details
 
@@ -57,10 +58,16 @@ The application includes a dedicated panel for **Syntax Enhancement**. Here is 
 *   **Translation Logic:** Custom regex-based patterns for high-fidelity text-to-MD conversion.
     
 
-* * *
+---
 
-## 🤝 Credits
+## 👾 Credits
 
-*  **3lchanguit0**
+*  **[3lchanguit0](https://github.com/3lchanguit0)**
 
-* * *
+---
+
+## 🚧 Work In Progress (WIP)
+
+Add different other format translation.
+
+---
