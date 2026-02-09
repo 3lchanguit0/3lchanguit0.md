@@ -1,4 +1,4 @@
-📝 3lChanguit0-editor – Markdown & Text Power-Editor Translator
+### 📝 3lChanguit0-editor – Markdown & Text Power-Editor Translator
 
 ---
 
@@ -6,23 +6,23 @@
 
 ---
 
-**  🚀 Key Features
+### 🚀 Key Features
 
-🔄 Bi-Directional Translation
+## 🔄 Bi-Directional Translation
 
 *   **Text to Markdown:** Instantly convert unstructured plain text into valid, formatted Markdown.
     
 *   **Markdown to Text:** Strip away the syntax to get a clean, readable version of your document.
     
 
-** ✍️ Advanced Editing Suite
+## ✍️ Advanced Editing Suite
 
 *   **Live Side-by-Side Preview:** See exactly how your README will look on GitHub as you type.
     
 *   **Syntax Enhancement:** Intelligent highlighting that identifies code blocks, headers, and lists to prevent formatting errors.
     
 
-### 🛠️ The "Readme Architect" Toolbox
+### 🛠️ The "Readme Studio" Toolbox
 
 *   **Special Character Injector:** Access a curated library of symbols (arrows, checkboxes, mathematical operators) without memorizing Alt codes.
     
@@ -49,7 +49,7 @@ The application includes a dedicated panel for **Syntax Enhancement**. Here is 
 
 ---
 
-## 🔧 Technical Details
+#### 🔧 Technical Details
 
 *   **Engine:**  e.g., React / Electron / Python
     
@@ -60,7 +60,7 @@ The application includes a dedicated panel for **Syntax Enhancement**. Here is 
 
 ---
 
-## 👾 Credits
+#### 👾 Credits
 
 *  **[3lchanguit0](https://github.com/3lchanguit0)**
 
