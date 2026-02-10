@@ -1,6 +1,6 @@
 # 📝 3lChanguit0-Editor
 
-**The Ultimate Markdown & Text Power-Editor Translator**
+**Markdown & Text Power-Editor Translator**
 
 [![Language](https://img.shields.io/badge/language-TypeScript-blue.svg)](https://www.typescriptlang.org/)
 [![Frontend](https://img.shields.io/badge/UI-HTML5%20%26%20CSS3-orange.svg)](#)
