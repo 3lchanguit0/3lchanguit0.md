@@ -1,4 +1,4 @@
-# 📝 3lChanguit0-Editor
+# 📝 3lchanguit0-Editor
 
 **Markdown & Text Power-Editor Translator**
 
@@ -9,7 +9,7 @@
 
 ---
 
-**3lChanguit0-Editor** is a high-performance translation and editing suite designed to bridge the gap between unstructured plain text and professional-grade Markdown. Whether you are drafting a technical manual or crafting a "perfect" GitHub README, our specialized syntax tools and symbol library provide a seamless workflow.
+**3lchanguit0-Editor** is a high-performance translation and editing suite designed to bridge the gap between unstructured plain text and professional-grade Markdown. Whether you are drafting a technical manual or crafting a "perfect" GitHub README, our specialized syntax tools and symbol library provide a seamless workflow.
 
 ---
 
