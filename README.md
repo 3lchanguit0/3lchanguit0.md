@@ -11,8 +11,6 @@
 
 **3lChanguit0-Editor** is a high-performance translation and editing suite designed to bridge the gap between unstructured plain text and professional-grade Markdown. Whether you are drafting a technical manual or crafting a "perfect" GitHub README, our specialized syntax tools and symbol library provide a seamless workflow.
 
-[🚀 Explore Features](#-key-features) • [🛠 Installation](#-installation) • [💡 Usage](#-how-to-use) • [👾 Credits](#-credits)
-
 ---
 
 ## 🚀 Key Features
