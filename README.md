@@ -70,6 +70,7 @@ We are constantly improving! Future updates will include:
 - [ ] Export to **PDF** and **HTML** formats.
 - [ ] Custom CSS themes for the Live Preview.
 - [ ] Direct GitHub API integration for instant README updates.
+- [ ] More Bold Titles Fonts.
 
 ---
 
