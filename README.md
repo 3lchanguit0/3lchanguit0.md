@@ -70,12 +70,14 @@ We are constantly improving! Future updates will include:
 - [ ] Direct GitHub API integration for instant README updates.
 - [ ] More Bold Titles Fonts.
 - [ ] Plug&Play Github's templates.
+- [ ] English, French, Japanese, Portuguese, Arab translator.
 
 ---
 
 ## 👾 Credits
 
 Maintained and developed by:
+
 *   **[3lchanguit0](https://github.com/3lchanguit0)**
 
 ---
