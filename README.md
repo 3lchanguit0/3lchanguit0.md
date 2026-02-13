@@ -9,7 +9,7 @@
 
 ---
 
-**3lchanguit0-Editor** is a high-performance translation and editing suite designed to bridge the gap between unstructured plain text and professional-grade Markdown. Whether you are drafting a technical manual or crafting a "perfect" GitHub README, our specialized syntax tools and symbol library provide a seamless workflow.
+**3lchanguit0-Editor** is a high-performance translation and editing suite designed to bridge the gap between unstructured plain text and professional-grade Markdown. Whether you are drafting a technical manual or crafting a "perfect" GitHub README, this specialized syntax tools and symbol library provide a seamless workflow.
 
 ---
 
@@ -71,6 +71,7 @@ We are constantly improving! Future updates will include:
 - [ ] More Bold Titles Fonts.
 - [ ] Plug&Play Github's templates.
 - [ ] English, French, Japanese, Portuguese, Arab translator.
+- [ ] ASCII templates with kawaii drawings (No NSFW! No Weebz bs!)
 
 ---
 
