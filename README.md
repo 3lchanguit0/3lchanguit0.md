@@ -70,7 +70,6 @@ We are constantly improving! Future updates will include:
 - [ ] Direct GitHub API integration for instant README updates.
 - [ ] More Bold Titles Fonts.
 - [ ] Plug&Play Github's templates.
-- [ ] English, French, Japanese, Portuguese, Arab translator.
 - [ ] ASCII templates with kawaii drawings (No NSFW! No Weebz bs!)
 
 ---
